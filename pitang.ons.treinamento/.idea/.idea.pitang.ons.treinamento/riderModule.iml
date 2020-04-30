@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RIDER_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../.." />
+    <content url="file://$MODULE_DIR$/../../../pitang.ons.treinamento.entities" />
+    <content url="file://$MODULE_DIR$/../../../pitang.ons.treinamento.repositories" />
+    <content url="file://$MODULE_DIR$/../../../pitang.ons.treinamento.repository.impl" />
+    <content url="file://$MODULE_DIR$/../../../pitang.ons.treinamento.services" />
+    <content url="file://$MODULE_DIR$/../../../pitang.ons.treinamento.services.impl" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
